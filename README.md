@@ -1,2 +1,4 @@
 # geometrywars
-comp4300
+
+Create a simple space wars with geometry figures in SFML
+
